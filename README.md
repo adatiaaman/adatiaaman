@@ -5,6 +5,6 @@
 - 🎓 I'm a Computer science and engineering sophomore at IIT Ropar
 - 🌱 I’m currently learning Dart and Flutter
 - 👯 I’m looking to collaborate on an App Development Project
-- 💻 I'm proficient in C, C++, Python
+- 💻 I'm proficient in C, C++ and Python
 - ⚡ Interests: App Development, Machine Learning, Data Analysis & Competitive Programming
 - 💬 How to reach me: adatiaaman@gmail.com
