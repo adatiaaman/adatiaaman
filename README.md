@@ -13,7 +13,7 @@
 
 [![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=adatiaaman&theme=merko)](https://github.com/adatiaaman/github-readme-stats)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adatiaaman&layout=compact&theme=merko)](https://github.com/adatiaaman/github-readme-stats)
+<!-- [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adatiaaman&layout=compact&theme=merko)](https://github.com/adatiaaman/github-readme-stats) -->
 
 
 <h3 align="left">Languages and Tools:</h3>
