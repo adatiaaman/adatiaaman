@@ -4,7 +4,7 @@
 
 - 🎓 I'm a Computer science and engineering student at IIT Ropar
 <!-- - 🌱 I’m currently learning Computer Vision --> <!-- - 👯 I’m looking to collaborate on an App Development Project --> <!-- - 💻 I'm proficient in C, C++ and Python -->
-- ⚡ Interests: App Development, Competitive Programming, Machine Learning & Data Analysis
+- ⚡ Interests: App Development & Computer Vision
 
 - 💬 Reach me at adatiaaman@gmail.com
 
