@@ -6,7 +6,7 @@
 <!-- - 🌱 I’m currently learning Computer Vision --> <!-- - 👯 I’m looking to collaborate on an App Development Project --> <!-- - 💻 I'm proficient in C, C++ and Python -->
 - ⚡ Interests: Software Development & Computer Vision
 
-- 💬 Reach me at adatiaaman@gmail.com
+- 💬 Reach me at adatiaaman@gmail.com or https://www.linkedin.com/in/aman-adatia-b49103146/
 
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=adatiaaman&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"> -->
 
