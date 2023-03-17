@@ -2,11 +2,15 @@
 
 <!-- **adatiaaman/adatiaaman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-- 🎓 I'm a Computer science and engineering student at IIT Ropar
+- 🎓 I'm a Computer Science & Engineering Junior at IIT Ropar
 <!-- - 🌱 I’m currently learning Computer Vision --> <!-- - 👯 I’m looking to collaborate on an App Development Project --> <!-- - 💻 I'm proficient in C, C++ and Python -->
-- ⚡ Interests: Software Development & Computer Vision
+- ⚡ Interests: Software Development & Machine Learning 
 
-- 💬 Reach me at adatiaaman@gmail.com or https://www.linkedin.com/in/aman-adatia-b49103146/
+- 💬 Let's connect!
+<br><br><a href="https://www.linkedin.com/in/aman-adatia-b49103146/" target="_blank" rel="noopener noreferrer"> 
+   <a href="mailto:adatiaaman@gmail.com"> <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Python" height="40" style="vertical-align:top; margin:4px"> </a> 
+   <img src="https://cdn.exclaimer.com/Handbook%20Images/linkedin-icon_64x64.png" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
+
 
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=adatiaaman&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"> -->
 
