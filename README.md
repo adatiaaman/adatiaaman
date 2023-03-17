@@ -7,8 +7,8 @@
 - ⚡ Interests: Software Development & Machine Learning 
 
 - 💬 Let's connect!
-<br><br><a href="https://www.linkedin.com/in/aman-adatia-b49103146/" target="_blank" rel="noopener noreferrer"> 
-   <a href="mailto:adatiaaman@gmail.com"> <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Python" height="40" style="vertical-align:top; margin:4px"> </a> 
+<br><br>
+   <a href="mailto:adatiaaman@gmail.com"> <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Python" height="40" style="vertical-align:top; margin:4px"> </a>  <a href="https://www.linkedin.com/in/aman-adatia-b49103146/" target="_blank" rel="noopener noreferrer"> 
    <img src="https://cdn.exclaimer.com/Handbook%20Images/linkedin-icon_64x64.png" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
 
 
