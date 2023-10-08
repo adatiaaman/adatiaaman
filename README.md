@@ -2,7 +2,7 @@
 
 <!-- **adatiaaman/adatiaaman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-- 🎓 I'm a Computer Science & Engineering Junior at IIT Ropar
+- 🎓 I'm a Computer Science & Engineering Senior at IIT Ropar
 <!-- - 🌱 I’m currently learning Computer Vision --> <!-- - 👯 I’m looking to collaborate on an App Development Project --> <!-- - 💻 I'm proficient in C, C++ and Python -->
 - ⚡ Interests: Software Development & Machine Learning 
 
